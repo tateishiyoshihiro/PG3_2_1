@@ -9,6 +9,7 @@ private:
 	};
 
 public:
+
 	void Update();
 private:
 	//Ú‹ß
